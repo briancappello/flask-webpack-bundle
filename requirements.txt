@@ -1,0 +1,2 @@
+flask-unchained>=0.1
+MarkupSafe>=1.0
