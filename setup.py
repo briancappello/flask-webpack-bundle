@@ -24,7 +24,7 @@ setup(
     ],
     packages=find_packages(exclude=['docs', 'tests']),
     install_requires=[
-        'flask-unchained>=0.1.6',
+        'flask-unchained>=0.2.0',
         'MarkupSafe>=1.0',
     ],
     include_package_data=True,
